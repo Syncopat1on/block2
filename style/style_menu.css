@@ -66,11 +66,11 @@ body {
 .contacts {
   padding-bottom: 16px;
 }
-.mail {
+.contacts-mail {
   padding-bottom: 12px;
   font-weight: 500;
 }
-.tel {
+.contacts-tel {
   font-weight: 700;
 }
 .lang {
