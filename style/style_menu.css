@@ -87,5 +87,5 @@ body {
 }
 .icon:active {
   transform: scale(1.2)  rotate(-5deg);
-  transition:transform 0.1s;        
+  transition:transform 0.1s;   
 }
